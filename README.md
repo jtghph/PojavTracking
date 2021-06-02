@@ -23,17 +23,17 @@ Not yet, this repository currently for bug tracking.
 	  <thead>
 		<tr>
 		  <th></th>
-		  <th align="center" colspan="7">Minecraft version</th>
+		  <th align="center" colspan="11">Minecraft version</th>
 		</tr>
 		<tr>
 		  <th>Android</th>
-		  <th align="center">1.7.10</th>
-		  <th align="center">1.8</th>
-		  <th align="center">1.9</th>
-		  <th align="center">1.10</th>
-		  <th align="center">1.11</th>
-		  <th align="center">1.12</th>
-		  <th align="center">1.12.2</th>
+		  <th align="center">1.7.x</th>
+		  <th align="center">1.8.x</th>
+		  <th align="center">1.9.x</th>
+		  <th align="center">1.10.x</th>
+		  <th align="center">1.11.x</th>
+		  <th align="center">1.12.x</th>
+		  <th align="center">1.13.x</th>
 		</tr>
 	  </thead>
 	  <tbody>
