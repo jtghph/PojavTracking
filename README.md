@@ -114,3 +114,4 @@ Not yet, this repository currently for bug tracking.
 
 # Note
 - This is only based on my experience.
+- Based on another bug-tracking fork and is **NOT** yet fully edited on my own.
